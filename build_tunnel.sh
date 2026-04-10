@@ -1,0 +1,1 @@
+./code tunnel --cli-data-dir ~/.wzk_node1 --name wzk_node1
