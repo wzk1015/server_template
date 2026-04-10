@@ -1,4 +1,5 @@
 ./tunnel_logs/
+BAGEL/
 
 tunnel_keeper.sh
 tunnel_watchdog.sh
